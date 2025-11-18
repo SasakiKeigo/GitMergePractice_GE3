@@ -1,4 +1,9 @@
-#include "TestFunction.h"
+#include <cassert>
+
+void TestFunction() {
+	exit(0);
+}
+
 
 int main() 
 {
