@@ -1,6 +1,7 @@
 #include "TestFunction.h"
 
-int main() {
+int main() 
+{
 
 	TestFunction();
 
